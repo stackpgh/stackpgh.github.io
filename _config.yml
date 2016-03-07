@@ -1,0 +1,18 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Stack
+email: stackpgh@gmail.com
+description: > # Stack is a coworking lounge that makes work feel like play
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "stackpgh.com" # the base hostname & protocol for your site
+twitter_username: pghstack
+github_username:  stackpgh
+
+# Build settings
+markdown: kramdown
