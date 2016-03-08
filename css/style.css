@@ -134,6 +134,7 @@ hr {
 }
 .navbar-toggle {
 	border-radius: 0;
+	margin-top: 15px;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 	background-color: #55bbff;
@@ -643,8 +644,35 @@ label {
 }
 }
 
+@media (max-width: 414px) {
+#menu {
+	padding: 0;
+}
+#menu a.navbar-brand img {
+	height: 44px;
+}
+.intro-text {
+	padding-top: 200px;
+}
+}
+
+@media (max-width: 375px) {
+.intro-text {
+	padding-top: 120px;
+}
+header p {
+	margin-bottom: 50px;
+}
+}
+
 @media (max-width: 360px) {
 .hover-bg .hover-text {
 	padding: 22% 10%;
+}
+}
+
+@media (max-width: 320px) {
+.intro-text h1 {
+	font-size: 60px;
 }
 }
