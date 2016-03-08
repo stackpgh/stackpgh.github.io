@@ -106,6 +106,7 @@ hr {
 	font-size: 22px;
 	color: #d9e0e2;
 	font-weight: 700;
+	height: auto;
 	letter-spacing: 1px;
 }
 #menu a.navbar-brand i.fa {
@@ -214,7 +215,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#032731', end
 #services-section .service:hover>i.fa {
 	background: #ffffff;
 }
-/* Gallery Section 
+/* Gallery Section
 ==============================*/
 #works-section {
 	padding: 80px 0;
