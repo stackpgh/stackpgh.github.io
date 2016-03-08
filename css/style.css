@@ -92,6 +92,9 @@ hr {
 	border: 0;
 	margin-bottom: 30px;
 }
+.sub_row {
+	padding: 0;
+}
 /* Navigation */
 #menu {
 	padding: 20px;
