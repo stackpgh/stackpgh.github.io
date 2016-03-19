@@ -1,1 +1,1 @@
-public website for the stack: http://stackpgh.com
+public website for stack pittsburgh - a coworking lounge
