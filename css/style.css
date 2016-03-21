@@ -28,12 +28,12 @@ p {
 	font-size: 13px;
 }
 a {
-	color: #5b777f;
+	color: #ffffff;
 	transition: all 0.5s;
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #55bbff;
+	color: #000000;
 }
 .img-centered {
 	margin: 0 auto;
